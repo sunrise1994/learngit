@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Creating a branch is quick and simple.
 Git has branchs.
+Git forbid Fast forward.
